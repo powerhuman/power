@@ -1,4 +1,4 @@
-# Logspower
+# Logspowerman
 logs
 *.log
 npm-debug.log*
